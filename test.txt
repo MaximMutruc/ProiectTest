@@ -1,3 +1,4 @@
 Salut Github
 Am aduagat un nou commit
 I-am artat lui Kazacioc cum functioneaza git-ul
+Mouse, tastatura, joystick
