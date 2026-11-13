@@ -3,3 +3,4 @@ Am aduagat un nou commit
 I-am artat lui Kazacioc cum functioneaza git-ul
 Mouse, tastatura, joystick
 Acum Cristian Panfil i-si scrie tema in caiet
+Am adaugat o noua  linie de cod
